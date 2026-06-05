@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sapphopup.github.io/hlifingcreatures'
 locale = 'en-us'
 title = 'Creatures Den'
 theme = 'digio-theme'
