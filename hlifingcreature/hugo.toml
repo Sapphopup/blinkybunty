@@ -1,7 +1,0 @@
-baseURL = 'https://sapphopup.github.io/hlifingcreatures'
-locale = 'en-us'
-title = 'Creatures Den'
-theme = 'digio-theme'
-[caches]
-	[caches.images]
-	dir = ':cacheDir/images'
